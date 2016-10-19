@@ -1,0 +1,14 @@
+
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID964", "location": {"y": 156, "x": 292}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID442", "location": {"y": 135, "x": 323}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID314", "location": {"y": 153, "x": 316}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID711", "location": {"y": 131, "x": 310}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID397", "location": {"y": 170, "x": 347}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID120", "location": {"y": 122, "x": 355}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID591", "location": {"y": 117, "x": 213}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID164", "location": {"y": 125, "x": 341}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID187", "location": {"y": 135, "x": 382}}
+{"time_stamp": "2015-07-01 19:19:13", "user_id": "UID623", "location": {"y": 137, "x": 359}}
+
+
+
